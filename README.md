@@ -10,4 +10,3 @@ I seperately produced the code based on LSB(least significant bits, without offs
 
 ### Data structure
 * Use **string ref_list[10001]** to store the reference sequence. 
-*s
